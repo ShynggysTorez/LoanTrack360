@@ -71,7 +71,7 @@ Numeric scoring system (0–100) to quantify repayment behavior per loan.
 
 ## 🧮 Sample Visuals
 
-![Repayment Score Histogram](https://github.com/yourusername/LoanTrack360/blob/main/repayment_score_distribution.png?raw=true)
+![Repayment Score Histogram](https://github.com/ShynggysTorez/LoanTrack360/blob/main/repayment_score_distribution.png?raw=true)
 
 ---
 
