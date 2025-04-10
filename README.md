@@ -71,9 +71,7 @@ Numeric scoring system (0–100) to quantify repayment behavior per loan.
 
 ## 🧮 Sample Visuals
 
-<img src="assets/score_distribution.png" width="700"/>
-<img src="assets/segment_barplot.png" width="700"/>
-<img src="assets/risk_amount_trend.png" width="700"/>
+<img src='assets/repayment_score_distribution.png'/>
 
 ---
 
